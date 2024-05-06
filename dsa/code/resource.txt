@@ -1,0 +1,6 @@
+1 Water 100 3
+2 Food 200 2
+3 Blankets 50 4
+4 Shelter 10 8
+5 Medical 11 5
+
